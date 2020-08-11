@@ -23,7 +23,7 @@ int main()
     {
         int n, temp; 
         yyy >> n;
-        vector<int>array(n);
+        vi array(n);
         
         for(int i = 0; i< n; i++)
         {
